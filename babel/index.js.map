@@ -1,0 +1,7 @@
+{
+	"version": 3,
+	"sources": ["index.js"],
+	"names": ["console", "log"],
+	"mappings": "AAEAA,OAAO,CAACC,GAAR,CAAY,QAAZ",
+	"sourcesContent": ["\n\nconsole.log(\"Other!\");\n"]
+}

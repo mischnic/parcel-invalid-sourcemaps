@@ -1,0 +1,1 @@
+{"mappings":"AAEAA,OAAO,CAACC,GAAR,CAAY,QAAZ","sources":["./index.js"],"sourcesContent":["\n\nconsole.log(\"Other!\");\n"],"names":["console","log"],"version":3,"file":"index.js.map"}
